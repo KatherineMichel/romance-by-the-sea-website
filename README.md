@@ -1,2 +1,3 @@
-romance-by-the-sea-website
-==========================
+# Romance By the Sea
+
+A Bootstrap prototype
